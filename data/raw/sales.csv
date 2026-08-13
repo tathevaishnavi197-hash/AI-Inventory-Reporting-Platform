@@ -1,0 +1,12 @@
+order_id,order_date,customer_name,product_name,category,supplier,quantity,unit_price,city,payment_status
+1001,2026-08-01,Rahul,Dell Laptop,Electronics,Dell India,1,55000,Pune,Paid
+1002,2026-08-01,Priya,HP Printer,Electronics,HP India,2,18000,Mumbai,Paid
+1003,2026-08-02,Amit,Samsung Galaxy S25,Electronics,Samsung India,1,75000,Pending
+1004,2026-08-02,Sneha,Office Chair,Furniture,IKEA India,3,8000,Pune,Paid
+1005,2026-08-03,Rohan,Mechanical Keyboard,Accessories,Logitech India,-2,4500,Delhi,Paid
+1006,2026-08-03,Neha,Wireless Mouse,Accessories,Logitech India,4,1200,Mumbai,
+1007,2026-08-04,Karan,Monitor,Electronics,LG India,1,22000,Pune,Paid
+1008,2026-08-04,Pooja,Study Table,Furniture,Pepperfry,1,9500,Nagpur,Paid
+1009,2026-08-05,Ankit,USB Hub,Accessories,HP India,3,800,Nashik,Paid
+1010,2026-08-05,Meera,MacBook Air,Electronics,Apple India,1,98000,Mumbai,Pending
+1010,2026-08-05,Meera,MacBook Air,Electronics,Apple India,1,98000,Mumbai,Pending

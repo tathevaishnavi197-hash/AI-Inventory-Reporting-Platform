@@ -45,10 +45,10 @@ export default function Home() {
 
     try {
       const response = await fetch(
-        `http://127.0.0.1:8000/ai/analyze?query=${encodeURIComponent(
-          query
-        )}`
-      );
+  `${process.env.NEXT_PUBLIC_API_URL}/ai/analyze?query=${encodeURIComponent(
+    query
+  )}`
+);
 
       const data = await response.json();
 
